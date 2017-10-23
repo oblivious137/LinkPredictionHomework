@@ -1,0 +1,10 @@
+1. Statistical Machine Translation
+2. Natural Language Generation
+3. Subjectivity, Sentiment and Social Media Analysis
+4. Discourse and Dialogue
+5. Parsing Technologies
+6. Linguistic Annotation
+7. Speech and Language Processing
+8. Multiword Expressions (MWE)
+9. Cognitive Modeling and Computational Linguistics
+10. Biomedical Natural Language Processing

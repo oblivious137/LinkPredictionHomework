@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "algorithm": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "unordered_set": "cpp",
+        "xhash": "cpp",
+        "sstream": "cpp"
+    }
+}

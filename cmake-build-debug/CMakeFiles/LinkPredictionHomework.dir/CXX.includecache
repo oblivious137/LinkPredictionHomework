@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/wuxian/ClionProjects/LinkPredictionHomework/data_handler.h
+string
+-
+unordered_map
+-
+unordered_set
+-
+fstream
+-
+iostream
+-
+vector
+-
+sstream
+-
+
+/Users/wuxian/ClionProjects/LinkPredictionHomework/main.cpp
+iostream
+-
+data_handler.h
+/Users/wuxian/ClionProjects/LinkPredictionHomework/data_handler.h
+

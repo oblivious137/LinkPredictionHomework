@@ -1,0 +1,4 @@
+"/Users/wuxian/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/172.3968.17/CLion.app/Contents/bin/cmake/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/wuxian/ClionProjects/LinkPredictionHomework
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/wuxian/ClionProjects/LinkPredictionHomework/cmake-build-debug
